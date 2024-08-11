@@ -1,0 +1,1 @@
+print("Parmod","good",sep="?",end="_")
